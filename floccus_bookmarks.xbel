@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :367: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>工作</title>
+  <bookmark href="https://cbg.huawei.com/#/group/service/ccps-wecare" id="12">
+    <title>WeCare2.0</title>
+  </bookmark>
+  <bookmark href="http://consumer-tkb.huawei.com/ctkb/index.html#!a/home.html" id="13">
+    <title>We Know</title>
+  </bookmark>
+  <bookmark href="https://w3.huawei.com/next/indexa.html" id="14">
+    <title>Welcome to W3 Workplace</title>
+  </bookmark>
+  <bookmark href="http://w3.huawei.com/bi/consumer/service/report/overview.html" id="15">
+    <title>BI</title>
+  </bookmark>
+  <bookmark href="http://w3.huawei.com/iauth/#/myApprover" id="16">
+    <title>iAuth</title>
+  </bookmark>
+  <bookmark href="https://gitmind.cn/app/docs" id="17">
+    <title>GitMind</title>
+  </bookmark>
+  <bookmark href="https://shanhaitujian.huawei.com/#/" id="18">
+    <title>山海图鉴</title>
+  </bookmark>
+  <bookmark href="https://snic.gtsdata.huawei.com/datalinkpro/web/#/form/formList?spaceId=Dlink_2911041&amp;appId=627335041&amp;currentMenu=1" id="19">
+    <title>DataLink招投标反馈</title>
+  </bookmark>
+  <bookmark href="https://app.huawei.com/ossrm/#!oss/index/index.html" id="20">
+    <title>CCPD-2B服务平台</title>
+  </bookmark>
+  <bookmark href="http://w3.huawei.com/btit/ebtittools/crf/#!har/home.html" id="21">
+    <title>首页 - 工作联络单</title>
+  </bookmark>
+  <bookmark href="https://w3.huawei.com/Retail/tsmp/#!dist/xui-demo/personalHome/personalHome.html" id="97">
+    <title>我的样机 - TSMP</title>
+  </bookmark>
+  <bookmark href="https://app.huawei.com/ccpbcustomerrm/#!customer/manage/listCustomer.html" id="98">
+    <title>查询客户 - ccpb_cust</title>
+  </bookmark>
+  <bookmark href="https://cst.shixizhi.huawei.com/portal/1374636116145332225?sxz-lang=zh_CN" id="99">
+    <title>终端BG服务培训学院</title>
+  </bookmark>
+  <bookmark href="https://icsa-fr.cbg-app.huawei.com/webroot/decision?state=null#/analysis/own/folder/__my_analysis__7845c5d7-982b-481b-9835-0e24129b76a9" id="100">
+    <title>终端BG自助分析</title>
+  </bookmark>
+  <bookmark href="https://www.vmall.com/index.html" id="101">
+    <title>华为商城VMALL</title>
+  </bookmark>
+  <bookmark href="https://prm.sanway.tech/index" id="102">
+    <title>铠大师授权管理系统</title>
+  </bookmark>
+  <bookmark href="https://12345.huawei.com/unidesk/portal/#/home" id="103">
+    <title>12345，华为内部服务平台</title>
+  </bookmark>
+  <bookmark href="http://consumer-tkb.huawei.com/weknow/index.html#!a/detail.html?contextNo=zh-cn15882358" id="104">
+    <title>PC软硬件工具合集</title>
+  </bookmark>
+  <bookmark href="https://remote-service.rnd.huawei.com/diagnosis/EWP/?srCode=&amp;mobile=&amp;product=&amp;productType=&amp;mainType=&amp;detailType=&amp;mainTypeCode=&amp;detailTypeCode=&amp;language=zh_CN&amp;timeZone=&amp;conversationId=&amp;rdId=&amp;sceneId=&amp;lineType=&amp;sysType=&amp;tenantId=&amp;deviceCode=CMCG10000002" id="105">
+    <title>日志获取</title>
+  </bookmark>
+  <bookmark href="https://w3.huawei.com/amtracking/eam/web/login/forwardMain.do" id="106">
+    <title>华为资产管理平台</title>
+  </bookmark>
+  <bookmark href="https://compartner.crm.huawei.com/cpplat/#/" id="167">
+    <title>compartner</title>
+  </bookmark>
+  <bookmark href="https://consumer-tkb.huawei.com/weknow/index.html#!a/detail.html?contextNo=zh-cn15927098" id="168">
+    <title>服务公告（CN2022SS055）—包材采购申请指导</title>
+  </bookmark>
+  <bookmark href="https://consumer.huawei.com/cn/support/content/zh-cn15926691/" id="169">
+    <title>华为计算机驱动一键下载工具（DriverTools）安装使用说明 | 华为官网</title>
+  </bookmark>
+  <bookmark href="https://onebox.huawei.com/v/6ab292b50eb522fcdb86e5754ae0a594?type=1" id="170">
+    <title>客户问题应对话术.xlsx</title>
+  </bookmark>
+  <bookmark href="https://w3.huawei.com/honormodle/purchase/html5/pages/index_01.html" id="171">
+    <title>工程机处理平台</title>
+  </bookmark>
+  <bookmark href="https://docs.qq.com/desktop/" id="172">
+    <title>腾讯文档</title>
+  </bookmark>
+  <bookmark href="https://onebox.huawei.com/v/5382594c796f497492b12c8b35764fd5?type=1" id="173">
+    <title>最新-PC&amp;台式机信创版本发布表.xlsx</title>
+  </bookmark>
+  <bookmark href="https://space.welink.huaweicloud.com/v/95d23a5a68ff091cc1b580c059cc9fe4?type=0" id="174">
+    <title>【PC合集】.xlsx</title>
+  </bookmark>
+  <bookmark href="https://3ms.huawei.com/km/groups/3141479/blogs/details/15136753?l=zh-cn" id="175">
+    <title>信创产品一键式Log工具 V1.0 - 终端BG 平板与PC软件部 - 3MS知识管理社区</title>
+  </bookmark>
+  <bookmark href="https://lantu-playground.gts.huawei.com/#/agent?anchor=askai_center" id="176">
+    <title>Pangu-s Playground</title>
+  </bookmark>
+  <bookmark href="https://3ms.huawei.com/hi/group/3958345" id="211">
+    <title>首页 - 公司内部应用鸿蒙原生项目专区 - 3ms知识管理社区</title>
+  </bookmark>
+  <bookmark href="https://icsa-fr.cbg-app.huawei.com/webroot/decision/v5/design/report/24c30de14ac440b481315440c25cbe0c/view?state=null" id="212">
+    <title>仪表板</title>
+  </bookmark>
+  <bookmark href="https://onebox.huawei.com/v/6a867afe371ad4ed775adbff18b7f5f5?type=0" id="213">
+    <title>显眼包格式分享.xlsx</title>
+  </bookmark>
+  <bookmark href="https://openx.huawei.com/WeTools/download" id="214">
+    <title>WeTools-下载</title>
+  </bookmark>
+  <bookmark href="https://selfservice.rnd.huawei.com/#/spp-process/spp-list" id="215">
+    <title>EasyOps</title>
+  </bookmark>
+  <bookmark href="https://edu.kdocs.cn/latest?from=docs" id="216">
+    <title>金山文档 | WPS云文档</title>
+  </bookmark>
+  <bookmark href="http://procurement.huawei.com/pr/" id="217">
+    <title>首页 - purpr</title>
+  </bookmark>
+  <bookmark href="https://w3.huawei.com/avatar/web/#/home/eventStream?themeId=8f58e77a4ec911ecae60fa163e6c37d3&amp;feedId=1845709629844807682&amp;discussionId=1845709629878362113" id="218">
+    <title>圆桌</title>
+  </bookmark>
+  <bookmark href="https://3ms.huawei.com/km/blogs/details/15999056" id="219">
+    <title>【官方推荐】WeLink超级主题来袭！蛇年新春主题来袭！ - 魏明山的博客</title>
+  </bookmark>
+  <bookmark href="https://3ms.huawei.com/hi/group/3141479/wiki_7952847.html" id="220">
+    <title>信创产品软件版本发布地图 - 终端BG 平板与PC软件部 - 3ms知识管理社区</title>
+  </bookmark>
+  <bookmark href="https://onebox.huawei.com/" id="239">
+    <title>WeLink 云空间</title>
+  </bookmark>
+  <bookmark href="https://snic.gtsdata.huawei.com/datalinkpro/web/#/home" id="240">
+    <title>DataLink工作台</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>知识库</title>
+  <bookmark href="https://docs.qq.com/desktop/?_t=1711791880235&amp;u=576bb3af65364ce18b7603b67653f4d1" id="22">
+    <title>腾讯文档</title>
+  </bookmark>
+  <bookmark href="http://www.uostools.com/" id="23">
+    <title>UOS运维工具</title>
+  </bookmark>
+  <bookmark href="https://eco.kylinos.cn/" id="24">
+    <title>麒麟生态</title>
+  </bookmark>
+  <bookmark href="https://www.chinauos.com/ecology/adapt" id="25">
+    <title>生态中心 | 统信UOS生态社区</title>
+  </bookmark>
+  <bookmark href="https://inst.kylinos.cn/#/index/home" id="26">
+    <title>麒麟软件教育发展中心</title>
+  </bookmark>
+  <bookmark href="https://edu.uniontech.com/index" id="27">
+    <title>首页-统信软件培训服务平台</title>
+  </bookmark>
+  <bookmark href="http://3ms.huawei.com/km/groups/3504321/blogs/details/12220635?l=zh-cn" id="28">
+    <title>【学习地图】终端BG自助分析平台学习地图 - 星云e家 - 3MS知识管理社区</title>
+  </bookmark>
+  <bookmark href="http://3ms.huawei.com/hi/group/3955077" id="29">
+    <title>商用 &amp; 信创终端社区 - 3ms知识管理社区</title>
+  </bookmark>
+  <bookmark href="https://license.chinauos.com/#/check" id="30">
+    <title>UOS正版验证</title>
+  </bookmark>
+  <bookmark href="http://3ms.huawei.com/hi/group/3957683" id="31">
+    <title>首页 - 大中华终端技术支持能力建设 - 3ms知识管理社区</title>
+  </bookmark>
+  <bookmark href="https://blog.51cto.com/u_12763213/5640027" id="107">
+    <title>值得收藏的微软Windows系统蓝屏代码大全以及修复方法_51CTO博客_微软蓝屏代码查询</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/zh-cn/windows-hardware/drivers/debugger/bug-checks--blue-screens-" id="108">
+    <title>Bug 检查（蓝屏） - Windows drivers | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://cbg.huawei.com/forum/web/index.html#/userposttemplate?topicId=172217&amp;lang=zh_CN" id="109">
+    <title>在线求助</title>
+  </bookmark>
+  <bookmark href="https://qingyun.shixizhi.huawei.com/course/1575807448484261889/application-view?courseId=1639204953974673410&amp;appId=512389460588724224&amp;appType=1&amp;activeIndex=0&amp;sxz-lang=zh_CN" id="110">
+    <title>【合作伙伴/华为】华为终端XC服务短视频</title>
+  </bookmark>
+  <bookmark href="https://faq.uniontech.com/" id="111">
+    <title>首页 | 统信软件-知识分享平台</title>
+  </bookmark>
+  <bookmark href="https://www.kdocs.cn/l/ccmT8FKDM1z3" id="112">
+    <title>XC常用软件替代清单</title>
+  </bookmark>
+  <bookmark href="https://www.uniontech.com/service/commonproblem" id="113">
+    <title>常见问题 - 统信软件</title>
+  </bookmark>
+  <bookmark href="https://www.jianshu.com/p/41f54d30ce68" id="114">
+    <title>linux下rm -rf * 误删除数据恢复(ext4文件系统) - 简书</title>
+  </bookmark>
+  <bookmark href="https://3ms.huawei.com/km/groups/3955551/home?l=zh-cn&amp;moduleId=800556046778134528" id="115">
+    <title>XC拓展与规划 - 安信军团社区 - 3MS知识管理社区</title>
+  </bookmark>
+  <bookmark href="https://3ms.huawei.com/km/groups/2773903/home?l=zh-cn" id="116">
+    <title>博客 - 终端BG软件部 - 3MS知识管理社区</title>
+  </bookmark>
+  <bookmark href="https://jx.huawei.com/technologySharing" id="177">
+    <title>稼先社区</title>
+  </bookmark>
+  <bookmark href="https://3ms.huawei.com/km/groups/1504389/blogs/details/14760399?moduleId=433821276963815424" id="178">
+    <title>终端BG涉及文件用印的主要IT系统指南 - 消费者BG业务应用与IT装备部 - 3MS知识管理社区</title>
+  </bookmark>
+  <bookmark href="https://3ms.huawei.com/hi/group/3950972?ctype=-1" id="179">
+    <title>首页 - 企业场景AI社区 - 3ms知识管理社区</title>
+  </bookmark>
+  <bookmark href="http://ilearning.huawei.com/edx/next/" id="180">
+    <title>Huawei iLearning</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/weixin_43431593/article/details/127550041" id="181">
+    <title>Linux脚本：Bash脚本看这一篇就够了_linux bash脚本-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://bbs.deepin.org/" id="182">
+    <title>deepin官方论坛-深度科技官网旗下网站</title>
+  </bookmark>
+  <bookmark href="https://www.cnblogs.com/jokershow/p/18444496" id="183">
+    <title>Arch Linux命令 - jokerpoker - 博客园</title>
+  </bookmark>
+  <bookmark href="https://wiki.archlinux.org/title/Main_page" id="184">
+    <title>ArchWiki 中文 --- ArchWiki</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/weixin_42328170/article/details/108991720" id="185">
+    <title>统信UOS命令大全 麒麟系统命令大全 Linux常用命令操作大全(非常全非常详细) ubuntu命令大全常用操作命令大全_命令行 麒麟系统隐藏任务栏-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/toybox-V5#%E6%95%B0%E5%AD%A6%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E5%87%BD%E6%95%B0" id="186">
+    <title>toybox-命令行工具-调试命令-调测调优-系统 - 华为HarmonyOS开发者</title>
+  </bookmark>
+  <bookmark href="https://www.yuque.com/pzm9012/ct5ume/nte586" id="221">
+    <title>deepin 常用资源整理</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>资源网站</title>
+  <bookmark href="http://hnyldemo.gnway.org:4500/" id="32">
+    <title>主页 | 金万维云信云盘</title>
+  </bookmark>
+  <bookmark href="https://next.itellyou.cn/Original/" id="33">
+    <title>原版系统</title>
+  </bookmark>
+  <bookmark href="https://www.pc528.net/" id="34">
+    <title>不忘初心系统博客-精简版系统官网</title>
+  </bookmark>
+  <bookmark href="https://www.hellowindows.cn/" id="35">
+    <title>HelloWindows.cn - 精校 完整 极致 Windows系统下载仓储站</title>
+  </bookmark>
+  <bookmark href="https://itch.io/" id="36">
+    <title>游戏中心</title>
+  </bookmark>
+  <bookmark href="http://www.pickfree.cn/" id="37">
+    <title>PICKFREE - 免费资源导航|免版权图片|免费商用字体|免费音频、视频等设计素材下载</title>
+  </bookmark>
+  <bookmark href="https://www.ruancang.net/" id="38">
+    <title>软仓丨RuanCang.Net</title>
+  </bookmark>
+  <bookmark href="https://steamzg.com/" id="39">
+    <title>小叽资源 – Free Share</title>
+  </bookmark>
+  <bookmark href="https://betheme.net/a/21529737.html" id="40">
+    <title>Microsoft Office下载链接</title>
+  </bookmark>
+  <bookmark href="https://cdimage-download.chinauos.com/" id="41">
+    <title>UOS镜像源</title>
+  </bookmark>
+  <bookmark href="https://sl.ygwid.cn/" id="117">
+    <title>银河麒麟-双源飞流下载站</title>
+  </bookmark>
+  <bookmark href="https://lz.qaiu.top/" id="118">
+    <title>网盘直链解析</title>
+  </bookmark>
+  <bookmark href="https://tool.mintimate.cn/gh/" id="119">
+    <title>Github下载加速-在线工具箱</title>
+  </bookmark>
+  <bookmark href="https://xbeibeix.com/api/bilibili/" id="120">
+    <title>贝贝BiliBili - B站视频下载</title>
+  </bookmark>
+  <bookmark href="https://icsa-fr.cbg-app.huawei.com/webroot/decision?state=null#?activeTab=dec-tabs-homepage" id="121">
+    <title>终端BG自助分析</title>
+  </bookmark>
+  <bookmark href="https://mirrors.huaweicloud.com/home" id="122">
+    <title>华为开源镜像站_软件开发服务_华为云</title>
+  </bookmark>
+  <bookmark href="https://flathub.org/zh-Hans" id="123">
+    <title>主页 | Flathub</title>
+  </bookmark>
+  <bookmark href="https://www.baidu.com/link?url=czE-eRSkDpt0HOcKZe_LxYRskkDnSdjFOxuM7OAzFnH3shsHMXa6LcUU5x0FgofrxZYNuZoh8qRP78DHJXmvm_&amp;wd=&amp;eqid=e01ef5b80012919b0000000664d84e2f&amp;tn=54093922_59_hao_pg" id="124">
+    <title>值得收藏的微软Windows系统蓝屏代码大全以及修复方法</title>
+  </bookmark>
+  <bookmark href="https://www.hlcode.cn/url" id="125">
+    <title>网址二维码生成器_网址静态码活码批量在线制作_互联二维码</title>
+  </bookmark>
+  <bookmark href="https://www.deepinos.org/" id="126">
+    <title>Spark forum-星火社区</title>
+  </bookmark>
+  <bookmark href="https://marketplace.huaweicloud.com/markets/holosensstore/list.html" id="187">
+    <title>华为好望商城_智能视频算法_智能识别_机器视觉_云市场-华为云</title>
+  </bookmark>
+  <bookmark href="https://www.crxsoso.com/" id="188">
+    <title>Crx搜搜 - 一个牛X的扩展和应用商店</title>
+  </bookmark>
+  <bookmark href="https://www.123pan.com/" id="189">
+    <title>123云盘</title>
+  </bookmark>
+  <bookmark href="https://www.qihuang.vip/" id="190">
+    <title>岐黄（qihuang.vip）</title>
+  </bookmark>
+  <bookmark href="http://hunhepan.com/search?q=&amp;type=&amp;time=&amp;exact=false&amp;page=1&amp;uid=0" id="191">
+    <title>混合盘搜索 - 百度网盘, 夸克网盘, 阿里云盘资源搜索网站</title>
+  </bookmark>
+  <bookmark href="https://sway.cloud.microsoft/1zyVegf0n3cHdR8o" id="192">
+    <title>Switch520 永久防迷路</title>
+  </bookmark>
+  <bookmark href="https://liteapks.com/" id="193">
+    <title>LITEAPKS - #1 MOD APK for Android</title>
+  </bookmark>
+  <bookmark href="https://happymod.com/app-mod.html" id="194">
+    <title>Apps Mods - Netflix VR Mod Apk 10.2.4 [Free purchase]</title>
+  </bookmark>
+  <bookmark href="https://www.firepx.com/" id="195">
+    <title>火哥分享-新鲜、好玩、实用的网络资源</title>
+  </bookmark>
+  <bookmark href="https://revi.cc/" id="196">
+    <title>RevisionOS | Revision</title>
+  </bookmark>
+  <bookmark href="https://www.gbarom.cn/" id="222">
+    <title>掌机迷_中古掌机游戏网站_GBA游戏_PSP游戏_NDS游戏_SFC游戏_FC游戏</title>
+  </bookmark>
+  <bookmark href="https://apkpure.com/cn/" id="223">
+    <title>在APKPure使用免费在线APK下载器下载APK到安卓</title>
+  </bookmark>
+  <bookmark href="https://www.emulatorgames.net/" id="224">
+    <title>Emulator Games - 下载游戏 ROM</title>
+  </bookmark>
+  <bookmark href="https://cdromance.org/psp/page/2/" id="225">
+    <title>PSP ISO， ROMs 下载 - 第 2 页，共 85 页 - CDRomance</title>
+  </bookmark>
+  <bookmark href="https://www.switch618.com/" id="226">
+    <title>Switch618|免费Switch游戏PC游戏下载 - SWITCH618游戏公益分享</title>
+  </bookmark>
+  <bookmark href="https://www.switchxiazai.com/index.html?type=NSP&amp;page=1" id="227">
+    <title>掌游网 - Switch中文游戏NSP下载</title>
+  </bookmark>
+  <bookmark href="https://www.apkmirror.com/" id="228">
+    <title>APKMirror - 免费APK下载 - 免费且安全的安卓APK下载</title>
+  </bookmark>
+  <bookmark href="https://cn.uptodown.com/" id="229">
+    <title>下载Android应用程序-下载，恢复，在Uptodown分享</title>
+  </bookmark>
+  <bookmark href="https://f-droid.org/zh_Hans/packages/" id="230">
+    <title>| F-Droid - Free and Open Source Android App Repository</title>
+  </bookmark>
+  <bookmark href="https://androeed.cn/" id="231">
+    <title>🔥 Android 模组、黑客和高级游戏 - Androeed.cn</title>
+  </bookmark>
+  <bookmark href="https://chromewebstore.google.com/" id="241">
+    <title>Chrome 应用商店</title>
+  </bookmark>
+  <bookmark href="https://greasyfork.org/zh-CN" id="242">
+    <title>Greasy Fork - 安全、实用的用户脚本大全</title>
+  </bookmark>
+  <bookmark href="https://www.2023game.com/" id="243">
+    <title>游戏星辰-switch游戏下载,NS破解游戏下载,ps4主机游戏下载综合社区</title>
+  </bookmark>
+  <bookmark href="https://hu60.cn/q.php/bbs.forum.170.html" id="244">
+    <title>Wine游戏助手 - 论坛</title>
+  </bookmark>
+  <bookmark href="https://www.ghxi.com/" id="245">
+    <title>果核剥壳 - 互联网的净土</title>
+  </bookmark>
+  <bookmark href="https://shasha.blog/p/3" id="246">
+    <title>电视剧 - 在线追剧 - 傻傻网</title>
+  </bookmark>
+  <bookmark href="https://www.10fz.cc/" id="247">
+    <title>一零辅助网 - 全网最大免费游戏辅助网,热门辅助资源网,我爱辅助网！</title>
+  </bookmark>
+  <bookmark href="https://his.huawei.com/eportal/#/?ns=rnd" id="248">
+    <title>研发工具门户_HIS MALL</title>
+  </bookmark>
+  <bookmark href="https://www.123pan.cn/" id="249">
+    <title>123网盘</title>
+  </bookmark>
+  <bookmark href="https://www.gamer520.com/" id="250">
+    <title>Switch520</title>
+  </bookmark>
+  <bookmark href="https://bizihu.com/" id="260">
+    <title>壁纸湖-壁纸湖网-为壁纸控攒宝藏</title>
+  </bookmark>
+  <bookmark href="https://mirrors.ustc.edu.cn/" id="261">
+    <title>USTC 开源软件镜像 --- USTC Open Source Software Mirror</title>
+  </bookmark>
+  <bookmark href="https://www.kdocs.cn/l/csvzcbTghsau" id="262">
+    <title>游戏分享（云边有个游戏厅）</title>
+  </bookmark>
+  <folder id="263">
+    <title>壁纸</title>
+    <bookmark href="https://wallpapershome.com/top/" id="274">
+      <title>Popular Wallpapers- Discover the perfect backgrounds for your 4k devices.</title>
+    </bookmark>
+    <bookmark href="https://www.dpm.org.cn/lights/royal.html" id="275">
+      <title>壁纸栏目 - 故宫博物院</title>
+    </bookmark>
+    <bookmark href="https://wall.alphacoders.com/" id="276">
+      <title>Wallpaper Abyss - The Best Cool HD Wallpapers And Backgrounds</title>
+    </bookmark>
+    <bookmark href="https://bz.zzzmh.cn/index" id="277">
+      <title>极简壁纸_海量电脑桌面壁纸美图_4K超高清_最潮壁纸网站</title>
+    </bookmark>
+    <bookmark href="https://wallpaperscraft.com/" id="278">
+      <title>Desktop wallpapers hd, free desktop backgrounds</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://armrepo.ver.lt/" id="264">
+    <title>ARM winows商店</title>
+  </bookmark>
+  <bookmark href="http://archive2.kylinos.cn/DEB/KYLIN_DEB/pool/all/" id="265">
+    <title>麒麟软件仓库Index of /DEB/KYLIN_DEB/pool/all/</title>
+  </bookmark>
+  <bookmark href="https://www.slimjet.com/chrome/google-chrome-old-version.php" id="266">
+    <title>Download older versions of Google Chrome for Windows, Linux and Mac</title>
+  </bookmark>
+  <bookmark href="https://greasyfork.cc/zh-CN" id="267">
+    <title>Greasy Fork Mirror - 安全且实用的用户脚本站</title>
+  </bookmark>
+  <bookmark href="https://m.zhiqihuo.cc/" id="268">
+    <title>天龙影视 - 2025热播好看电视剧大全-高清电影免费在线观看的网站 - 天龙影视</title>
+  </bookmark>
+  <bookmark href="https://suxuewang.com/" id="269">
+    <title>极速影视 - 2024年最新高清热播电影电视剧免费看尽在极速影院网</title>
+  </bookmark>
+  <bookmark href="https://snic.gtsdata.huawei.com/datalinkpro/web/#/openFormFill?hashcode=/r8UwioW5ZBBNF+PEVgy0bDz7pWK/0zz1UkNF2gXPC8=" id="285">
+    <title>华为擎云产品OS版本查询系统(仅供内部使用)</title>
+  </bookmark>
+  <bookmark href="https://yun.139.com/w/#/index" id="286">
+    <title>中国移动云盘-不限速免流量的云盘</title>
+  </bookmark>
+</folder>
+<folder id="4">
+  <title>优秀软件</title>
+  <folder id="42">
+    <title>VPN</title>
+    <bookmark href="https://m.wang1314.com/doc/webapp/topic/12246270.html" id="62">
+      <title>脑梗塞常用中药方</title>
+    </bookmark>
+    <bookmark href="https://www.ai-money.club/2024/06/08/warp%e7%9a%84%e6%9b%bf%e4%bb%a3%e4%ba%a7%e5%93%81%ef%bc%9avpn/" id="63">
+      <title>warp+异常的解决方案aiAI俱乐部</title>
+    </bookmark>
+    <bookmark href="https://t.me/s/ripaojiedian?q=%23VPN&amp;before=7998" id="64">
+      <title>分享社-节点|破解|VPN|分享 – Telegram</title>
+    </bookmark>
+    <bookmark href="https://t.me/s/bf_and?q=%23VPN&amp;before=15220" id="65">
+      <title>Android破解VPN👀#安卓 #破解软件 #限免软件 #限免游戏 #破解游戏 #破解VPN #Android #VPN – Telegram</title>
+    </bookmark>
+    <bookmark href="https://github.com/2dust/v2rayN" id="66">
+      <title>GitHub - 2dust/v2rayN: A GUI client for Windows, support Xray core and v2fly core and others</title>
+    </bookmark>
+    <bookmark href="https://github.com/hiddify" id="67">
+      <title>hiddify · GitHub</title>
+    </bookmark>
+    <bookmark href="https://ikuuu.pw/user" id="68">
+      <title>ikuuu发布地址</title>
+    </bookmark>
+    <bookmark href="https://github.com/v2rayA/v2rayA" id="69">
+      <title>GitHub - v2rayA/v2rayA: A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀</title>
+    </bookmark>
+    <bookmark href="https://github.com/2dust/v2rayNG" id="70">
+      <title>2dust/v2rayNG: A V2Ray client for Android, support Xray core and v2fly core</title>
+    </bookmark>
+    <bookmark href="https://github.com/clash-verge-rev/clash-verge-rev" id="71">
+      <title>clash-verge-rev/clash-verge-rev: Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)</title>
+    </bookmark>
+    <bookmark href="https://github.com/mahdibland/V2RayAggregator?tab=readme-ov-file" id="141">
+      <title>mahdibland/V2RayAggregator: Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources &amp; Filter Best Nodes By Speed</title>
+    </bookmark>
+    <bookmark href="https://github.com/Pawdroid" id="142">
+      <title>优-Pawdroid (Pawdroid) · GitHub</title>
+    </bookmark>
+    <bookmark href="https://peasoft.github.io/NWalls.html" id="143">
+      <title>NoMoreWalls - Pea Soft 博客</title>
+    </bookmark>
+    <bookmark href="https://github.com/clashwall/vpn-subscribe-node" id="144">
+      <title>clashwall/vpn-subscribe-node： 免费开放订阅节点，支持多种翻墙工具地址订阅</title>
+    </bookmark>
+    <bookmark href="https://clashforandroid.org/all-proxy-client/" id="145">
+      <title>2024最新Android安卓科学上网客户端大全 - Clash for Android</title>
+    </bookmark>
+    <bookmark href="https://github.com/chengaopan/AutoMergePublicNodes?tab=readme-ov-file" id="146">
+      <title>GitHub - chengaopan/AutoMergePublicNodes: 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子</title>
+    </bookmark>
+  </folder>
+  <folder id="43">
+    <title>网站</title>
+    <bookmark href="https://meitulu.me/" id="72">
+      <title>meitu</title>
+    </bookmark>
+  </folder>
+  <folder id="44">
+    <title>Wallpaper素材</title>
+    <bookmark href="https://alteredqualia.com/" id="73">
+      <title>AlteredQualia</title>
+    </bookmark>
+    <bookmark href="https://www.shadertoy.com/" id="74">
+      <title>Shadertoy BETA</title>
+    </bookmark>
+    <bookmark href="https://wallpaperwaifu.com/" id="75">
+      <title>https://wallpaperwaifu.com/</title>
+    </bookmark>
+  </folder>
+  <folder id="45">
+    <title>HarmonyOS NEXT</title>
+    <bookmark href="https://github.com/wuxianlin/harmonyos_next_emulator_mod" id="76">
+      <title>wuxianlin/harmonyos_next_emulator_mod：修改HarmonyOS Next模拟器，具有root权限</title>
+    </bookmark>
+    <bookmark href="https://github.com/codematrixer/awesome-hdc" id="77">
+      <title>codematrixer/awesome-hdc: 鸿蒙NEXT HDC命令合集</title>
+    </bookmark>
+    <bookmark href="https://github.com/likuai2010/ClashMeta" id="78">
+      <title>likuai2010/ClashMeta: 半成品</title>
+    </bookmark>
+    <bookmark href="https://github.com/SolidFaker/V2rayOH" id="79">
+      <title>SolidFaker/V2rayOH：HarmonyOS 的 V2ray 客户端 Next</title>
+    </bookmark>
+    <bookmark href="https://github.com/Zitann/HarmonyOS-Haps" id="80">
+      <title>Zitann/HarmonyOS-Haps: ⚡️鸿蒙Next Hap安装包合集，如果您觉得有帮助，还请点亮一下Star🌟哦~万分感谢！</title>
+    </bookmark>
+    <bookmark href="https://github.com/mgz0227/legado-Harmony" id="81">
+      <title>mgz0227/legado-Harmony: 开源阅读鸿蒙版仓库</title>
+    </bookmark>
+    <bookmark href="https://github.com/Okysu/harmony-next-music-sharing" id="82">
+      <title>Okysu/harmony-next-music-sharing：基于Harmony OS Next API12版本的网易云第三方客户端</title>
+    </bookmark>
+    <bookmark href="https://github.com/likuai2010/auto-installer" id="83">
+      <title>https://github.com/likuai2010/auto-installer</title>
+    </bookmark>
+    <bookmark href="https://github.com/awaLiny2333/LinysBrowser_NEXT" id="84">
+      <title>awaLiny2333/LinysBrowser_NEXT: A basic browser on HarmonyOS NEXT!</title>
+    </bookmark>
+    <bookmark href="https://github.com/ErBWs/Kazumi/tree/1.5.1" id="85">
+      <title>ErBWs/Kazumi at 1.5.1</title>
+    </bookmark>
+    <bookmark href="https://github.com/Luxcis/PicACG_Next" id="147">
+      <title>Luxcis/PicACG_Next: 哔咔漫画鸿蒙NEXT版</title>
+    </bookmark>
+    <bookmark href="http://nextmax.cn/index" id="148">
+      <title>NEXT Store</title>
+    </bookmark>
+    <bookmark href="https://github.com/knight6236/Pomodoro-Timer" id="149">
+      <title>Knight6236/Pomodoro-Timer: 鸿蒙NEXT版 番茄时钟</title>
+    </bookmark>
+    <bookmark href="https://github.com/Aloereed/aloeplayer_ohos" id="150">
+      <title>Aloereed/aloeplayer_ohos：AloePlayer：跨平台本地媒体播放器。</title>
+    </bookmark>
+    <bookmark href="https://github.com/Chenlvin/CloudMusic-HarmonyOSNext" id="151">
+      <title>Chenlvin/CloudMusic-HarmonyOSNext: 云音汇 For HarmonyOS NEXT</title>
+    </bookmark>
+    <bookmark href="https://github.com/codematrixer/hmdriver2" id="152">
+      <title>codematrixer/hmdriver2: UI Automation Framework for HarmonyOS NEXT | 鸿蒙NEXT自动化框架</title>
+    </bookmark>
+    <bookmark href="https://github.com/xiaobaigroup/hapapp" id="153">
+      <title>xiaobaigroup/hapapp</title>
+    </bookmark>
+    <bookmark href="https://github.com/Edge-Music/Core" id="154">
+      <title>GitHub - Edge-Music/Core: 这是一个基于鸿蒙HarmonyOS Next API 15版本全新重构开发的网络音乐播放器统一UI容器。2.0版本带来了惊艳的UI设计和革命性的数据源架构，支持连接多个平台和私有数据源。我们致力于提供流畅的原生体验，同时保留并增强您喜爱的所有功能！</title>
+    </bookmark>
+    <bookmark href="https://github.com/chashaochang/JellyFin_HarmonyOS" id="155">
+      <title>GitHub - chashaochang/JellyFin_HarmonyOS</title>
+    </bookmark>
+    <bookmark href="https://github.com/autobcb/read" id="156">
+      <title>GitHub - autobcb/read</title>
+    </bookmark>
+  </folder>
+  <folder id="46">
+    <title>AndroidOS</title>
+    <bookmark href="https://github.com/brunodev85/winlator" id="86">
+      <title>brunodev85/winlator: Android application for running Windows applications with Wine and Box86/Box64</title>
+    </bookmark>
+    <bookmark href="https://github.com/hanxinhao000/ZeroTermux/" id="87">
+      <title>hanxinhao000/ZeroTermux</title>
+    </bookmark>
+    <bookmark href="https://api.misakamoe.com/app/" id="88">
+      <title>BILIBILI AS 一款哔哩哔哩番剧视频解析APP</title>
+    </bookmark>
+    <bookmark href="https://github.com/RikkaApps/Shizuku/releases" id="89">
+      <title>Releases · RikkaApps/Shizuku · GitHub</title>
+    </bookmark>
+    <bookmark href="https://github.com/you-apps/VibeYou" id="90">
+      <title>GitHub - you-apps/VibeYou: Privacy focused music player built with MD3</title>
+    </bookmark>
+    <bookmark href="https://github.com/Libre-tube/LibreTube" id="91">
+      <title>GitHub - libre-tube/LibreTube: An alternative frontend for YouTube, for Android.</title>
+    </bookmark>
+    <bookmark href="https://github.com/anandnet/Harmony-Music" id="92">
+      <title>GitHub - anandnet/Harmony-Music: A cross platform App for streaming Music</title>
+    </bookmark>
+    <bookmark href="https://github.com/deniscerri/ytdlnis" id="93">
+      <title>GitHub - deniscerri/ytdlnis: Android Video/Audio Downloader app using yt-dlp</title>
+    </bookmark>
+    <bookmark href="https://www.puretuber.com/" id="94">
+      <title>Pure Tuber-Video &amp; MP3 Player</title>
+    </bookmark>
+    <bookmark href="https://github.com/Aefyr/SAI" id="95">
+      <title>GitHub - SAI: Android split APKs installer</title>
+    </bookmark>
+    <bookmark href="https://github.com/ThirtyDegreesRay/OpenHub" id="157">
+      <title>GitHub - OpenHub: An open source GitHub Android client app, faster and concise.</title>
+    </bookmark>
+    <bookmark href="https://github.com/AdAway/AdAway" id="158">
+      <title>GitHub - AdAway/AdAway: AdAway is a free and open source ad blocker for Android.</title>
+    </bookmark>
+    <bookmark href="https://github.com/ultranity/Pix-EzViewer" id="159">
+      <title>GitHub - Pix-EzViewer: 一个支持免代理直连+多种额外特性功能优化的第三方 Pixiv android 客户端 | A thPixiv Android client with modern design and many other enhancements</title>
+    </bookmark>
+    <bookmark href="https://github.com/TeamNewPipe/NewPipe" id="160">
+      <title>GitHub - NewPipe: A libre lightweight streaming front-end for Android.</title>
+    </bookmark>
+    <bookmark href="https://github.com/lucinhu/bili_you" id="161">
+      <title>GitHub - bili_you: 一个用flutter制作的第三方B站客户端.</title>
+    </bookmark>
+    <bookmark href="https://github.com/LibChecker/LibChecker" id="162">
+      <title>GitHub - LibChecker/LibChecker: An app to view libraries used in apps in your device.</title>
+    </bookmark>
+    <bookmark href="https://github.com/ammargitham/WallFlow/" id="163">
+      <title>GitHub - WallFlow: Wallpaper app for Android using Jetpack Compose</title>
+    </bookmark>
+    <bookmark href="https://github.com/fumiama/copymanga" id="164">
+      <title>GitHub - copymanga: 拷贝漫画的第三方APP，优化阅读/下载体验</title>
+    </bookmark>
+    <bookmark href="https://github.com/Notsfsssf/pixez-flutter" id="165">
+      <title>GitHub - pixez-flutter: 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端</title>
+    </bookmark>
+    <bookmark href="https://github.com/you-apps/WallYou" id="166">
+      <title>GitHub - WallYou: Privacy focused wallpaper app built with MD3</title>
+    </bookmark>
+    <bookmark href="https://mirror.tuna.tsinghua.edu.cn/help/fdroid/" id="201">
+      <title>fdroid | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror</title>
+    </bookmark>
+    <bookmark href="https://github.com/Droid-ify/client" id="202">
+      <title>GitHub - Droid-ify/client: F-Droid client with Material UI.</title>
+    </bookmark>
+    <bookmark href="https://github.com/solkin/appteka-android" id="203">
+      <title>GitHub - Appteka is an alternative store for Android</title>
+    </bookmark>
+    <bookmark href="https://auroraoss.com/" id="204">
+      <title>第三方谷歌商店</title>
+    </bookmark>
+    <bookmark href="https://github.com/InfinityLoop1308/PipePipe" id="205">
+      <title>GitHub - PipePipe: A FLOSS Android app to let you browse YouTube, NicoNico and BiliBili freely.</title>
+    </bookmark>
+    <bookmark href="https://github.com/mihonapp/mihon" id="206">
+      <title>GitHub - mihon 全功能漫画阅读器: Free and open source manga reader for Android</title>
+    </bookmark>
+    <bookmark href="https://github.com/canxin121/app_rhyme" id="207">
+      <title>GitHub - canxin121/app_rhyme: 使用Flutter和Rust构建的开源免费音乐软件</title>
+    </bookmark>
+    <bookmark href="https://github.com/maotoumao/MusicFree" id="208">
+      <title>GitHub - maotoumao/MusicFree: 插件化、定制化、无广告的免费音乐播放器</title>
+    </bookmark>
+    <bookmark href="https://github.com/xxnuo/MusicFreePluginsHub" id="209">
+      <title>GitHub - xxnuo/MusicFreePluginsHub: MusicFree 插件订阅聚合器 - 每天更新</title>
+    </bookmark>
+    <bookmark href="https://github.com/Katana-Official/SPatch-Update" id="210">
+      <title>GitHub - 元萝卜/SPatch-Update：SPatch 夜间更新 --- GitHub - Katana-Official/SPatch-Update: Update for SPatch nightly</title>
+    </bookmark>
+  </folder>
+  <folder id="47">
+    <title>归档</title>
+    <bookmark href="https://github.com/bggRGjQaUbCoE/c001apk" id="96">
+      <title>GitHub - bggRGjQaUbCoE/c001apk: fake coolapk</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://github.com/ntdevlabs/tiny11builder" id="48">
+    <title>ntdevlabs/tiny11builder: Scripts to build a trimmed-down Windows 11 image.</title>
+  </bookmark>
+  <bookmark href="https://github.com/libretro/RetroArch" id="49">
+    <title>libretro/RetroArch: Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</title>
+  </bookmark>
+  <bookmark href="https://github.com/leiurayer/downkyi" id="50">
+    <title>GitHub - leiurayer/downkyi: 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。</title>
+  </bookmark>
+  <bookmark href="https://github.com/suyu-emu" id="51">
+    <title>Suyu Emulator · GitHub</title>
+  </bookmark>
+  <bookmark href="https://prodkeys.net/" id="127">
+    <title>Switch Prod.Keys | Prod Keys For Ryujinx &amp; Yuzu</title>
+  </bookmark>
+  <bookmark href="https://www.holesfly.xyz/" id="128">
+    <title>HoleFly-追剧APP</title>
+  </bookmark>
+  <bookmark href="https://listen1.github.io/listen1/" id="129">
+    <title>Listen 1 音乐播放器</title>
+  </bookmark>
+  <bookmark href="https://github.com/rustdesk/rustdesk" id="130">
+    <title>GitHub - rustdesk/rustdesk: An open-source remote desktop, and alternative to TeamViewer.</title>
+  </bookmark>
+  <bookmark href="https://github.com/dolphin-emu/dolphin" id="197">
+    <title>GitHub - dolphin-emu/dolphin: Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.</title>
+  </bookmark>
+  <bookmark href="https://github.com/KRTirtho/spotube" id="198">
+    <title>GitHub - spotube: 🎧 Open source Spotify client that doesn&apos;t require Premium nor uses Electron! Available for both desktop &amp; mobile!</title>
+  </bookmark>
+  <bookmark href="https://github.com/mabDc/eso" id="199">
+    <title>eso: 亦搜，亦看，亦闻 manga&amp;novel reader, audio&amp;video player in one app developed by flutter</title>
+  </bookmark>
+  <bookmark href="https://github.com/GuihongWang/MusicYou" id="200">
+    <title>MusicYou: Unofficial NetEase Cloud Music player</title>
+  </bookmark>
+  <bookmark href="https://github.com/termux/termux-app/" id="232">
+    <title>termux-app: Termux - a terminal emulator application for Android OS extendible by variety of packages.</title>
+  </bookmark>
+  <bookmark href="https://github.com/EXALAB/AnLinux-App" id="233">
+    <title>AnLinux-App: AnLinux allow you to run Linux on Android without root access.</title>
+  </bookmark>
+  <bookmark href="https://github.com/lateautumn233/Linuxdeploy-Pro" id="234">
+    <title>Linuxdeploy-Pro</title>
+  </bookmark>
+  <bookmark href="https://github.com/xiaye13579/BBLL" id="235">
+    <title>BBLL: 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV &amp; Pad。</title>
+  </bookmark>
+  <bookmark href="https://github.com/guozhigq/pilipala" id="236">
+    <title>pilipala: PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</title>
+  </bookmark>
+  <bookmark href="https://github.com/WaitFme/CoolbbsYou" id="237">
+    <title>第三方酷安</title>
+  </bookmark>
+  <bookmark href="https://github.com/zfdang/Android-Touch-Helper" id="238">
+    <title>开屏跳过-安卓系统的开屏广告自动跳过助手</title>
+  </bookmark>
+  <bookmark href="https://haikuo.lanzouf.com/u/GoldRiver" id="251">
+    <title>海阔视界/嗅觉浏览器/波澜系列 - 奏云</title>
+  </bookmark>
+  <bookmark href="https://github.com/dependon/fantascene-dynamic-wallpaper" id="252">
+    <title>GitHub - dependon/fantascene-dynamic-wallpaper: Managed animated wallpaper based on X11 under Linux(Dynamic Wallpapers for Linux)</title>
+  </bookmark>
+  <bookmark href="https://tachiyomi.org/forks/TachiyomiSY/" id="253">
+    <title>TachiyomiSY</title>
+  </bookmark>
+  <bookmark href="https://miru.js.org/" id="254">
+    <title>Miru</title>
+  </bookmark>
+  <bookmark href="https://ryensx.github.io/MediaBoxPluginRepository/" id="255">
+    <title>媒体盒子官网</title>
+  </bookmark>
+  <bookmark href="http://rzys.xyz/" id="256">
+    <title>忍者影视</title>
+  </bookmark>
+  <bookmark href="https://bgg.lanzout.com/b02cnadsj" id="257">
+    <title>宇宙工具箱</title>
+  </bookmark>
+  <bookmark href="https://10miaomiao.cn/" id="258">
+    <title>首页-10喵喵的世界</title>
+  </bookmark>
+  <bookmark href="http://www.tbtool.cn/" id="259">
+    <title>图吧工具箱 - 最纯净的硬件工具箱</title>
+  </bookmark>
+  <bookmark href="https://github.com/gorhill/uBlock" id="270">
+    <title>GitHub - gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</title>
+  </bookmark>
+  <bookmark href="https://github.com/namidaco/namida" id="271">
+    <title>GitHub - namidaco/namida: A Beautiful and Feature-rich Music &amp; Video Player with Youtube Support, Built in Flutter</title>
+  </bookmark>
+  <bookmark href="https://github.com/privacy-protection-tools/anti-AD" id="272">
+    <title>GitHub/anti-AD: 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式</title>
+  </bookmark>
+  <bookmark href="https://github.com/AppImage/AppImageKit/wiki/AppImages" id="273">
+    <title>AppImages · AppImage/AppImageKit Wiki · GitHub</title>
+  </bookmark>
+  <bookmark href="https://github.com/rubickCenter/rubick" id="279">
+    <title>GitHub - rubickCenter/rubick: 🔧 Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。</title>
+  </bookmark>
+  <bookmark href="http://www.ponyemu.com/index_m.html" id="280">
+    <title>小马模拟器- 小马模拟器安卓版</title>
+  </bookmark>
+  <bookmark href="https://git.suyu.dev/suyu/suyu" id="281">
+    <title>果汁/果汁 - Juice Go</title>
+  </bookmark>
+  <bookmark href="https://github.com/Nekogram/Nekogram" id="282">
+    <title>Nekogram/Nekogram: Open-source third-party Telegram client with few but useful mods.</title>
+  </bookmark>
+  <bookmark href="https://nekogram.app/zh-hans/" id="283">
+    <title>Nekogram | 修改虽不多但实用的开源第三方 Telegram 客户端</title>
+  </bookmark>
+  <bookmark href="https://codecguide.com/download_kl.htm" id="284">
+    <title>下载 K-Lite 编解码器包</title>
+  </bookmark>
+  <bookmark href="https://github.com/imsyy/SPlayer" id="287">
+    <title>imsyy/SPlayer: 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player</title>
+  </bookmark>
+  <bookmark href="https://github.com/Francis-Rings/MotionFollower" id="288">
+    <title>AI视频-Francis-Rings/MotionFollower：MotionFollower：通过轻量级乐谱引导扩散编辑视频运动</title>
+  </bookmark>
+  <bookmark href="https://github.com/GiantappMan/livewallpaper" id="289">
+    <title>GitHub - GiantappMan/livewallpaper: An easy-to-use wallpaper app for Windows 10/11, supporting dynamic and static wallpapers, with a built-in community. | 巨应壁纸 | 动态壁纸 | live wallpaper</title>
+  </bookmark>
+  <bookmark href="https://github.com/rocksdanister/lively" id="290">
+    <title>GitHub - rocksdanister/lively: Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.</title>
+  </bookmark>
+  <bookmark href="https://gitcode.com/Almamu/linux-wallpaperengine/overview?utm_source=artical_gitcode" id="291">
+    <title>linux-wallpaperengine:Wallpaper Engine backgrounds for Linux! - GitCode</title>
+  </bookmark>
+  <bookmark href="https://chromewebstore.google.com/?hl=zh-CN&amp;pli=1" id="292">
+    <title>Chrome 应用商店</title>
+  </bookmark>
+  <bookmark href="https://github.com/Hiram-Wong/ZyPlayer" id="293">
+    <title>GitHub - Hiram-Wong/ZyPlayer: 跨平台桌面端视频资源播放器,免费高颜值.</title>
+  </bookmark>
+  <bookmark href="https://github.com/hjdhnx/hipy-server" id="294">
+    <title>GitHub - hjdhnx/hipy-server: hipy t4服务后端</title>
+  </bookmark>
+  <bookmark href="https://github.com/KDE/kdenlive" id="295">
+    <title>GitHub - KDE/kdenlive: Free and open source video editor, based on MLT Framework and KDE Frameworks</title>
+  </bookmark>
+  <bookmark href="https://www.openshot.org/zh-hans/" id="296">
+    <title>OpenShot 视频编辑器 | 自由、开放、获奖的视频编辑器，支持 Linux、Mac 以及 Windows!</title>
+  </bookmark>
+  <bookmark href="https://lwks.com/" id="297">
+    <title>Lightworks - Easy to Use Pro Video Editing Software</title>
+  </bookmark>
+  <bookmark href="https://www.blender.org/" id="298">
+    <title>blender.org - Home of the Blender project - Free and Open 3D Creation Software</title>
+  </bookmark>
+  <bookmark href="https://www.shotcut.org/" id="299">
+    <title>Shotcut - Home</title>
+  </bookmark>
+  <bookmark href="https://github.com/mean00/avidemux2" id="300">
+    <title>GitHub - mean00/avidemux2: Avidemux2, simple video editor</title>
+  </bookmark>
+  <bookmark href="https://www.olivevideoeditor.org/" id="301">
+    <title>Olive Video Editor</title>
+  </bookmark>
+  <bookmark href="https://github.com/microsoft/PowerToys" id="302">
+    <title>GitHub - microsoft/PowerToys: Windows system utilities to maximize productivity</title>
+  </bookmark>
+  <bookmark href="https://github.com/lihenggui/blocker?tab=readme-ov-file" id="303">
+    <title>GitHub - lihenggui/blocker: Utilize an integrated firewall to manage application components.</title>
+  </bookmark>
+  <bookmark href="https://github.com/GuMengYu/music-you" id="304">
+    <title>GitHub - GuMengYu/music-you: 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器</title>
+  </bookmark>
+  <bookmark href="https://github.com/Fing-mer/better-genshin-impact" id="305">
+    <title>GitHub - Fing-mer/better-genshin-impact: 🍨BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动派遣 | 一键强化 | 支持云原神</title>
+  </bookmark>
+  <bookmark href="https://github.com/massgravel/Microsoft-Activation-Scripts" id="306">
+    <title>GitHub - massgravel/Microsoft-Activation-Scripts: A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</title>
+  </bookmark>
+  <bookmark href="https://github.com/dashboard" id="307">
+    <title>GitHub 控制板</title>
+  </bookmark>
+  <bookmark href="https://hoothin.github.io/UserScripts/Pagetual/" id="308">
+    <title>☯️東方永頁機 v.1.9.37.76 | UserScripts</title>
+  </bookmark>
+  <bookmark href="https://github.com/xyq254245/xyqonlinerule" id="309">
+    <title>香雅情在线规则</title>
+  </bookmark>
+  <bookmark href="https://github.com/NewOrin/TVBox?tab=readme-ov-file" id="310">
+    <title>NewOrin/TVBox: TVbox开源版（空壳-自行配置）</title>
+  </bookmark>
+  <bookmark href="https://github.com/qist/tvbox" id="311">
+    <title>qist/tvbox: OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。</title>
+  </bookmark>
+  <bookmark href="https://github.com/YuanHsing/freed/tree/master/ZY-Player" id="312">
+    <title>freed/ZY-Player at master · YuanHsing/freed · GitHub</title>
+  </bookmark>
+  <bookmark href="https://www.yxzhi.com/9257.html" id="313">
+    <title>TVBox接口配置地址，新一期长期维护更新，超稳接口推荐 - 鸭先知</title>
+  </bookmark>
+  <bookmark href="https://github.com/cjx82630/cjxlist" id="314">
+    <title>GitHub - cjx82630/cjxlist</title>
+  </bookmark>
+  <bookmark href="https://github.com/ionuttbara/windows-defender-remover" id="315">
+    <title>GitHub - ionuttbara/windows-defender-remover: A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</title>
+  </bookmark>
+  <bookmark href="https://github.com/FEX-Emu/FEX" id="316">
+    <title>GitHub - FEX-Emu/FEX: A fast usermode x86 and x86-64 emulator for Arm64 Linux</title>
+  </bookmark>
+  <bookmark href="https://github.com/fork-maintainers/iceraven-browser" id="317">
+    <title>GitHub - fork-maintainers/iceraven-browser: Iceraven Browser</title>
+  </bookmark>
+  <bookmark href="https://github.com/f4team-cn/f4pan" id="318">
+    <title>GitHub - f4team-cn/f4pan: A website to get netdisk download link for users who cannot install the client</title>
+  </bookmark>
+  <bookmark href="https://github.com/rbreaves/essx8336" id="319">
+    <title>GitHub - rbreaves/essx8336: Support kernel linux essx8336</title>
+  </bookmark>
+  <bookmark href="http://ports.ubuntu.com/pool/universe/c/chromium-browser/" id="320">
+    <title>Index of /pool/universe/c/chromium-browser</title>
+  </bookmark>
+  <bookmark href="https://github.com/msojocs/bilibili-linux" id="321">
+    <title>GitHub - msojocs/bilibili-linux: 基于哔哩哔哩官方客户端移植的Linux版本 支持漫游</title>
+  </bookmark>
+  <bookmark href="https://github.com/eythaann/Seelen-UI/releases" id="322">
+    <title>Releases · eythaann/Seelen-UI</title>
+  </bookmark>
+  <bookmark href="https://github.com/andandroidor/ourtv?tab=readme-ov-file" id="323">
+    <title>GitHub - andandroidor/ourtv: 稳定、蓝光、高清、电视直播</title>
+  </bookmark>
+  <bookmark href="https://gitee.com/wanghongenpin/network-proxy-flutter" id="324">
+    <title>wanghongenpin/network_proxy_flutter</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/aiboqiao/article/details/140408908" id="325">
+    <title>[全网首发]Windows仿HarmonyOS教程_mydockfind-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://github.com/rocksdanister/lively/" id="326">
+    <title>GitHub - rocksdanister/lively：免费开源软件，允许用户设置由WinUI 3驱动的动画桌面壁纸和屏幕保护程序。 --- GitHub - rocksdanister/lively: Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.</title>
+  </bookmark>
+  <bookmark href="https://github.com/immich-app/immich" id="327">
+    <title>immich-自建云相册</title>
+  </bookmark>
+  <bookmark href="https://github.com/infstellar/genshin_impact_assistant" id="328">
+    <title>GitHub - infstellar/genshin_impact_assistant: 原神小助手 Genshin Assistant (CN/EN) | 自动战斗,秘境,领日常,半自动委托</title>
+  </bookmark>
+  <bookmark href="https://github.com/aooiuu/any-reader" id="329">
+    <title>GitHub - aooiuu/any-reader: 📘开源的多平台自定义源资源聚合工具。支持小说、漫画阅读、视频播放、聚合搜索、分类排行等, 也支持本地资源TXT、EPUB</title>
+  </bookmark>
+  <bookmark href="https://github.com/linuxmint/timeshift" id="330">
+    <title>GitHub - linuxmint/timeshift: System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.</title>
+  </bookmark>
+  <bookmark href="https://github.com/HyPlayer/HyPlayer" id="331">
+    <title>GitHub - HyPlayer/HyPlayer: 仅供学习交流使用 | 第三方网易云音乐播放器 | A Netease Cloud Music Player</title>
+  </bookmark>
+  <bookmark href="https://github.com/UnblockNeteaseMusic/server" id="332">
+    <title>GitHub - UnblockNeteaseMusic/server: Revive unavailable songs for Netease Cloud Music (Refactored &amp; Enhanced version)</title>
+  </bookmark>
+  <bookmark href="https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher" id="333">
+    <title>GitHub - Heroic-Games-Launcher/HeroicGamesLauncher: A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.</title>
+  </bookmark>
+  <bookmark href="https://haikuo.lanzoub.com/b0ekkjzi" id="334">
+    <title>海阔视界</title>
+  </bookmark>
+  <bookmark href="https://www.123pan.com/s/fajA-xkjQh.html" id="335">
+    <title>Xiu浏览器</title>
+  </bookmark>
+  <bookmark href="https://github.com/AndreRH/hangover" id="336">
+    <title>GitHub - AndreRH/hangover：Hangover 在 arm64 Linux 上运行简单的 Win64 和 Win32 应用程序</title>
+  </bookmark>
+  <bookmark href="https://github.com/Ryubing/Ryujinx" id="337">
+    <title>GitHub - Ryubing/Ryujinx: Nintendo Switch emulator written in C#, originally created by gdkchan.</title>
+  </bookmark>
+  <bookmark href="https://yangyxd.github.io/eso_doc/website/" id="338">
+    <title>大白版亦搜eso官方网站</title>
+  </bookmark>
+  <bookmark href="https://vanillaos.org/download/orchid/stable" id="339">
+    <title>Vanilla OS 2 Orchid 稳定版 - Vanilla OS</title>
+  </bookmark>
+  <bookmark href="https://gitee.com/BrightXu/rtl8192fu/tree/master" id="340">
+    <title>rtl8192fu: 8192fu Linux USB无线网卡驱动 - Gitee.com</title>
+  </bookmark>
+  <bookmark href="https://github.com/Klocman/Bulk-Crap-Uninstaller" id="341">
+    <title>GitHub - Klocman/Bulk-Crap-Uninstaller: Remove large amounts of unwanted applications quickly.</title>
+  </bookmark>
+  <bookmark href="https://www.deepin.org/zh/deepin-23-install-driver-gpu/" id="342">
+    <title>deepin 23 如何安装显卡驱动 – 深度科技社区</title>
+  </bookmark>
+  <bookmark href="https://github.com/hrydgard/ppsspp" id="343">
+    <title>GitHub - hrydgard/ppsspp: A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.</title>
+  </bookmark>
+  <bookmark href="https://github.com/Hunlongyu/ZY-Player" id="344">
+    <title>Hunlongyu/ZY-Player: ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞</title>
+  </bookmark>
+  <bookmark href="https://github.com/cuiocean/ZY-Player-APP" id="345">
+    <title>cuiocean/ZY-Player-APP: ▶️ 跨平台移动端视频资源播放器. 简洁免费. 🎞 ZY Player 移动端 APP，基于 Uni-app 开发.</title>
+  </bookmark>
+  <bookmark href="https://github.com/QL-Win/QuickLook" id="346">
+    <title>GitHub - QL-Win/QuickLook: Bring macOS “Quick Look” feature to Windows</title>
+  </bookmark>
+  <bookmark href="https://www.mikuclub.win/" id="347">
+    <title>初音社 | 初音未来_MIKU_V家MMD视频_歌姬计划_壁纸_音乐资源分享</title>
+  </bookmark>
+  <bookmark href="https://git.citron-emu.org/Citron/Citron" id="348">
+    <title>Citron/Citron： 任天堂自制模拟器 - Citron： 任天堂自制模拟器 --- Citron/Citron: Nintendo Homebrew Emulator - Citron: Nintendo Homebrew Emulator</title>
+  </bookmark>
+  <bookmark href="https://chatboxai.app/zh?c=download-linux" id="349">
+    <title>Chatbox AI官网：办公学习的AI好助手，全平台AI客户端，官方免费下载</title>
+  </bookmark>
+  <bookmark href="https://github.com/JIAJIA-nya/MyDockFinder-Free" id="350">
+    <title>JIAJIA-nya/MyDockFinder-免费 --- JIAJIA-nya/MyDockFinder-Free</title>
+  </bookmark>
+  <bookmark href="https://github.com/gaxCat/Mydockfinder" id="351">
+    <title>gaxCat/Mydockfinder： 提供Mydockfinder的资源包 --- gaxCat/Mydockfinder: 提供Mydockfinder的资源包</title>
+  </bookmark>
+  <bookmark href="https://github.com/Smoren/huawei-ubuntu-sound-fix" id="352">
+    <title>Smoren/huawei-ubuntu-sound-fix: Fix for sound card behavior on Huawei Matebook s14 / s16 on Ubuntu 22.04 / Fedora / Arch</title>
+  </bookmark>
+  <bookmark href="https://github.com/zptqghsw/NeteaseCloudMusicApiNew" id="353">
+    <title>zptqghsw/NeteaseCloudMusicApiNew</title>
+  </bookmark>
+  <bookmark href="https://github.com/IamFurina/NeteaseCloudMusicAPI" id="354">
+    <title>IamFurina/NeteaseCloudMusicAPI: 🔍NeteaseCloudMusicAPI二改, 添加了解灰接口</title>
+  </bookmark>
+  <bookmark href="https://github.com/hanziteng1996/NeteaseCloudMusicAPI?tab=readme-ov-file" id="355">
+    <title>hanziteng1996/NeteaseCloudMusicAPI: 🔍NeteaseCloudMusicAPI二改, 添加了解灰接口</title>
+  </bookmark>
+  <bookmark href="https://github.com/abbodi1406/vcredist" id="356">
+    <title>GitHub - abbodi1406/vcredist: AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes</title>
+  </bookmark>
+  <bookmark href="https://github.com/Richasy/Bili.Copilot" id="357">
+    <title>GitHub - Richasy/Bili.Copilot: B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用</title>
+  </bookmark>
+  <bookmark href="https://download.bleachbit.org/beta/4.9.1/" id="358">
+    <title>Bleachbit</title>
+  </bookmark>
+  <bookmark href="http://mikahintz.de/fileDownload.php" id="359">
+    <title>mikahintz.de/fileDownload.php</title>
+  </bookmark>
+  <bookmark href="https://github.com/Kenji-NX/Kenji-NX" id="360">
+    <title>GitHub - Kenji-NX/Kenji-NX: Nintendo Switch emulator written in C#.</title>
+  </bookmark>
+  <bookmark href="https://ryujinx.app/" id="361">
+    <title>Ryujinx - Nintendo Switch Emulator</title>
+  </bookmark>
+  <bookmark href="https://github.com/ramensoftware/windhawk" id="362">
+    <title>GitHub - ramensoftware/windhawk: The customization marketplace for Windows programs: https://windhawk.net/</title>
+  </bookmark>
+  <bookmark href="https://github.com/Predidit/Kazumi" id="363">
+    <title>GitHub - Predidit/Kazumi: 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。</title>
+  </bookmark>
+  <bookmark href="https://openfde.com/zh-CN" id="364">
+    <title>OpenFDE - 可以使用任意安卓应用、玩安卓游戏的 Linux 桌面</title>
+  </bookmark>
+  <bookmark href="https://www.alura.com.br/especial/internet-explorer-edge-browsers-on-linux" id="365">
+    <title>Internet Explorer, Edge and other Browsers on Linux and Mac | Alura Cursos Online</title>
+  </bookmark>
+  <bookmark href="https://github.com/Taiizor/Sucrose" id="366">
+    <title>Sucrose/README.zh-CN.md at develop · Taiizor/Sucrose · GitHub</title>
+  </bookmark>
+  <bookmark href="https://github.com/caorushizi/mediago" id="367">
+    <title>GitHub - caorushizi/mediago: m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>在线工具箱</title>
+  <bookmark href="https://easychuan.cn/" id="52">
+    <title>轻松传 - 传文件，传文本，传屏幕，传实时视频</title>
+  </bookmark>
+  <bookmark href="https://zhouql.vip/bilibili/" id="53">
+    <title>B站视频下载工具 | 极简纯净</title>
+  </bookmark>
+  <bookmark href="https://dewatermark.ai/" id="54">
+    <title>AI去水印</title>
+  </bookmark>
+  <bookmark href="https://www.canva.cn/" id="55">
+    <title>Canva可画_在线设计协作平台_平面设计作图软件_免费设计素材 - Canva中文官网</title>
+  </bookmark>
+  <bookmark href="https://lang123.top/" id="56">
+    <title>琅琅配音--永久免费的AI配音平台-配音神器/有声书配音/短视频配音/专业配音</title>
+  </bookmark>
+  <bookmark href="https://6li6.com/" id="57">
+    <title>6li6在线工具箱</title>
+  </bookmark>
+  <bookmark href="https://koukoukou.cn/" id="58">
+    <title>抠抠抠-免费抠图工具</title>
+  </bookmark>
+  <bookmark href="https://www.videofk.com/" id="59">
+    <title>在线视频下载 - VideoFk</title>
+  </bookmark>
+  <bookmark href="https://convertio.co/zh/document-converter/" id="60">
+    <title>文档转换器 (在线自由) — Convertio</title>
+  </bookmark>
+  <bookmark href="https://viggle.ai/?ref=openi.cn" id="61">
+    <title>VIGGLE-AI视频</title>
+  </bookmark>
+  <bookmark href="https://bot.sunding.cn/#/tts" id="131">
+    <title>文本转语音 - 笋丁网页机器人</title>
+  </bookmark>
+  <bookmark href="https://www.chuanying520.com/vedit/b69470f0-1d6d-11ea-9601-63c0669b589b.html?status=2" id="132">
+    <title>视频编辑器</title>
+  </bookmark>
+  <bookmark href="http://www.ssbbww.com/h/af.aspx" id="133">
+    <title>跳动字制作(文字gif动画生成)_在线做图片</title>
+  </bookmark>
+  <bookmark href="https://d.serctl.com/" id="134">
+    <title>Github下载</title>
+  </bookmark>
+  <bookmark href="https://lolitalibrary.com/maomao/#" id="135">
+    <title>Kittens Game - a Dark Souls of incremental gaming</title>
+  </bookmark>
+  <bookmark href="https://apps.microsoft.com/detail/9nblggh4vb0d?hl=zh-CN&amp;gl=CN" id="136">
+    <title>百度网盘UWP - Windows官方下载 | 微软应用商店 | Microsoft Store</title>
+  </bookmark>
+  <bookmark href="https://console.cloud.tencent.com/" id="137">
+    <title>总览 - 控制台 - 腾讯云</title>
+  </bookmark>
+  <bookmark href="https://app.netlify.com/teams/hanziteng1996/sites" id="138">
+    <title>hanziteng1996 | Netlify</title>
+  </bookmark>
+  <bookmark href="https://wx.mail.qq.com/home/index?sid=zc1GNYxqU0cu9ktjAFdsVwAA#/list/1/1" id="139">
+    <title>QQ邮箱</title>
+  </bookmark>
+  <bookmark href="https://www.yunzhan365.com/tools/pdf-to-word/" id="140">
+    <title>PDF转Word_免费在线PDF怎么转换成Word - 云展网办公工具集</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.tiangong.cn/" id="6">
+  <title>天工AI</title>
+</bookmark>
+<bookmark href="https://soali.net/" id="7">
+  <title>SoAli.net</title>
+</bookmark>
+<bookmark href="https://chat.deepseek.com/" id="8">
+  <title>DeepSeek - 探索未至之境</title>
+</bookmark>
+<bookmark href="https://mirror.ghproxy.com/" id="9">
+  <title>GitHub Proxy 代理加速</title>
+</bookmark>
+<bookmark href="https://cg.163.com/#/mobile" id="10">
+  <title>网易云游戏_网易官方云游戏平台_海量游戏即点即玩_cg.163.com</title>
+</bookmark>
+<bookmark href="https://www.vmall.com/?cid=125903" id="11">
+  <title>华为商城</title>
+</bookmark>
+</xbel>
