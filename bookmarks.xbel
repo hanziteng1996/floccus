@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :368: for Floccus bookmark sync browser extension -->
+<!--- highestId :369: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>工作</title>
@@ -1087,6 +1087,9 @@
   </bookmark>
   <bookmark href="https://www.yunzhan365.com/tools/pdf-to-word/" id="140">
     <title>PDF转Word_免费在线PDF怎么转换成Word - 云展网办公工具集</title>
+  </bookmark>
+  <bookmark href="https://xcxdoc.com/" id="369">
+    <title>微文档 - 实用公众号附件助手，一键添加公众号文章附件</title>
   </bookmark>
 </folder>
 <bookmark href="https://www.tiangong.cn/" id="6">
