@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :370: for Floccus bookmark sync browser extension -->
+<!--- highestId :371: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>工作</title>
@@ -235,6 +235,9 @@
   </bookmark>
   <bookmark href="https://www.kdocs.cn/l/cnZetfCi0VMY" id="370">
     <title>外设开源解决方案库</title>
+  </bookmark>
+  <bookmark href="https://gxxc.wiki/kd/2298.html" id="371">
+    <title>麒麟桌面系统【ISO定制】 – XC知识库</title>
   </bookmark>
 </folder>
 <folder id="3">
