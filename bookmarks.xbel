@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :748: for Floccus bookmark sync browser extension -->
+<!--- highestId :771: for Floccus bookmark sync browser extension -->
 
 <folder id="373">
   <title>工作</title>
@@ -142,6 +142,9 @@
   <title>资源网站</title>
   <bookmark href="https://08cg8o.smartapps.baidu.com/?_chatQuery=%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8%E4%B9%8B%E9%81%97%E4%B8%AD%E6%96%87%E5%85%A8DLC%E9%99%84XG%E5%99%A8MOD%E6%95%B4%E5%90%88%E5%8C%85%E5%AD%98%E6%A1%A3&amp;searchid=a31d377400089a8a&amp;_chatParams=%7B%22agent_id%22%3A%2271bcb%22%2C%22content_build_id%22%3A%221a0db608%22%2C%22from%22%3A%22q2c%22%2C%22token%22%3A%22TWRxcW1MTjlGOEJxSHBLNjBKbUMvVkgzbExwSEpzd3dGYkhGVVZvMFcyOXhwc2JCTjhUUi81WmRreFI4Y2crRkNncW41VGZTS21zT3h2SWJBQThOeVNKZ1dZN1dRME4vVWdGRURDVTdkM0tyLzUrWlRiWUNpTFJQSzFrSDFxTlhoN1hxT3hmaTNZWXg0SU5rczFidHV2amF3bCs0cjE0bVpQRW1OU25DdWVaRHlUN2JxbDU3cWtmTUtoZHpIbmdZM0RhckJYdGt4b04vTmM2REkwTk5uay9USnlnOFFMTmkyZzFsU1VUV2Ribz0%3D%22%2C%22chat_no_login%22%3Atrue%7D&amp;_swebScene=3711000610001000" id="394">
     <title>网络游戏助手</title>
+  </bookmark>
+  <bookmark href="https://www.arduino.cc/" id="749">
+    <title>Arduino - Home</title>
   </bookmark>
   <bookmark href="http://hnyldemo.gnway.org:4500/" id="395">
     <title>主页 | 金万维云信云盘</title>
@@ -347,6 +350,9 @@
   <bookmark href="https://deck.mhhf.com/" id="670">
     <title>SteamDeck中文网 – Deck.mhhf.com 分享 SteamDeck 实用信息和资源</title>
   </bookmark>
+  <bookmark href="https://snic.gtsdata.huawei.com/datalinkpro/web/#/openFormFill?hashcode=/r8UwioW5ZBBNF+PEVgy0bDz7pWK/0zz1UkNF2gXPC8=" id="750">
+    <title>华为擎云产品OS版本查询系统(仅供内部使用)</title>
+  </bookmark>
 </folder>
 <folder id="375">
   <title>在线工具箱</title>
@@ -431,6 +437,48 @@
   <bookmark href="https://git.citron-emu.org/citron/emu/-/releases" id="414">
     <title>Releases · The Citron Project / Emulator · GitLab</title>
   </bookmark>
+  <folder id="419">
+    <title>归档</title>
+    <bookmark href="https://github.com/bggRGjQaUbCoE/c001apk" id="467">
+      <title>GitHub - bggRGjQaUbCoE/c001apk: fake coolapk</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://github.com/ntdevlabs/tiny11builder" id="420">
+    <title>ntdevlabs/tiny11builder: Scripts to build a trimmed-down Windows 11 image.</title>
+  </bookmark>
+  <bookmark href="https://github.com/libretro/RetroArch" id="421">
+    <title>libretro/RetroArch: Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</title>
+  </bookmark>
+  <bookmark href="https://github.com/leiurayer/downkyi" id="422">
+    <title>GitHub - leiurayer/downkyi: 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。</title>
+  </bookmark>
+  <bookmark href="https://github.com/suyu-emu" id="423">
+    <title>Suyu Emulator · GitHub</title>
+  </bookmark>
+  <bookmark href="https://prodkeys.net/" id="498">
+    <title>Switch Prod.Keys | Prod Keys For Ryujinx &amp; Yuzu</title>
+  </bookmark>
+  <bookmark href="https://github.com/rustdesk/rustdesk" id="501">
+    <title>GitHub - rustdesk/rustdesk: An open-source remote desktop, and alternative to TeamViewer.</title>
+  </bookmark>
+  <bookmark href="https://github.com/dolphin-emu/dolphin" id="502">
+    <title>GitHub - dolphin-emu/dolphin: Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.</title>
+  </bookmark>
+  <bookmark href="https://github.com/termux/termux-app/" id="567">
+    <title>termux-app: Termux - a terminal emulator application for Android OS extendible by variety of packages.</title>
+  </bookmark>
+  <bookmark href="https://github.com/EXALAB/AnLinux-App" id="568">
+    <title>AnLinux-App: AnLinux allow you to run Linux on Android without root access.</title>
+  </bookmark>
+  <bookmark href="https://github.com/lateautumn233/Linuxdeploy-Pro" id="609">
+    <title>Linuxdeploy-Pro</title>
+  </bookmark>
+  <bookmark href="https://github.com/xiaye13579/BBLL" id="610">
+    <title>BBLL: 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV &amp; Pad。</title>
+  </bookmark>
+  <bookmark href="https://github.com/guozhigq/pilipala" id="611">
+    <title>pilipala: PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</title>
+  </bookmark>
   <folder id="415">
     <title>VPN</title>
     <bookmark href="https://m.wang1314.com/doc/webapp/topic/12246270.html" id="434">
@@ -482,6 +530,12 @@
       <title>GitHub - chengaopan/AutoMergePublicNodes: 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子</title>
     </bookmark>
   </folder>
+  <bookmark href="https://github.com/zfdang/Android-Touch-Helper" id="613">
+    <title>开屏跳过-安卓系统的开屏广告自动跳过助手</title>
+  </bookmark>
+  <bookmark href="https://haikuo.lanzouf.com/u/GoldRiver" id="617">
+    <title>海阔视界/嗅觉浏览器/波澜系列 - 奏云</title>
+  </bookmark>
   <folder id="416">
     <title>Wallpaper素材</title>
     <bookmark href="https://alteredqualia.com/" id="444">
@@ -559,6 +613,9 @@
   </folder>
   <folder id="418">
     <title>AndroidOS</title>
+    <bookmark href="http://app.xiaoqu.online/" id="751">
+      <title>小趣空间</title>
+    </bookmark>
     <bookmark href="https://github.com/brunodev85/winlator" id="457">
       <title>brunodev85/winlator: Android application for running Windows applications with Wine and Box86/Box64</title>
     </bookmark>
@@ -650,74 +707,44 @@
       <title>GitHub - 元萝卜/SPatch-Update：SPatch 夜间更新 --- GitHub - Katana-Official/SPatch-Update: Update for SPatch nightly</title>
     </bookmark>
   </folder>
-  <folder id="419">
-    <title>归档</title>
-    <bookmark href="https://github.com/bggRGjQaUbCoE/c001apk" id="467">
-      <title>GitHub - bggRGjQaUbCoE/c001apk: fake coolapk</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://github.com/ntdevlabs/tiny11builder" id="420">
-    <title>ntdevlabs/tiny11builder: Scripts to build a trimmed-down Windows 11 image.</title>
-  </bookmark>
-  <bookmark href="https://github.com/libretro/RetroArch" id="421">
-    <title>libretro/RetroArch: Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</title>
-  </bookmark>
-  <bookmark href="https://github.com/leiurayer/downkyi" id="422">
-    <title>GitHub - leiurayer/downkyi: 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。</title>
-  </bookmark>
-  <bookmark href="https://github.com/suyu-emu" id="423">
-    <title>Suyu Emulator · GitHub</title>
-  </bookmark>
-  <bookmark href="https://prodkeys.net/" id="498">
-    <title>Switch Prod.Keys | Prod Keys For Ryujinx &amp; Yuzu</title>
-  </bookmark>
   <bookmark href="https://www.holesfly.xyz/" id="499">
     <title>HoleFly-追剧APP</title>
-  </bookmark>
-  <bookmark href="https://listen1.github.io/listen1/" id="500">
-    <title>Listen 1 音乐播放器</title>
-  </bookmark>
-  <bookmark href="https://github.com/rustdesk/rustdesk" id="501">
-    <title>GitHub - rustdesk/rustdesk: An open-source remote desktop, and alternative to TeamViewer.</title>
-  </bookmark>
-  <bookmark href="https://github.com/dolphin-emu/dolphin" id="502">
-    <title>GitHub - dolphin-emu/dolphin: Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.</title>
-  </bookmark>
-  <bookmark href="https://github.com/KRTirtho/spotube" id="564">
-    <title>GitHub - spotube: 🎧 Open source Spotify client that doesn&apos;t require Premium nor uses Electron! Available for both desktop &amp; mobile!</title>
-  </bookmark>
-  <bookmark href="https://github.com/mabDc/eso" id="565">
-    <title>eso: 亦搜，亦看，亦闻 manga&amp;novel reader, audio&amp;video player in one app developed by flutter</title>
-  </bookmark>
-  <bookmark href="https://github.com/GuihongWang/MusicYou" id="566">
-    <title>MusicYou: Unofficial NetEase Cloud Music player</title>
-  </bookmark>
-  <bookmark href="https://github.com/termux/termux-app/" id="567">
-    <title>termux-app: Termux - a terminal emulator application for Android OS extendible by variety of packages.</title>
-  </bookmark>
-  <bookmark href="https://github.com/EXALAB/AnLinux-App" id="568">
-    <title>AnLinux-App: AnLinux allow you to run Linux on Android without root access.</title>
-  </bookmark>
-  <bookmark href="https://github.com/lateautumn233/Linuxdeploy-Pro" id="609">
-    <title>Linuxdeploy-Pro</title>
-  </bookmark>
-  <bookmark href="https://github.com/xiaye13579/BBLL" id="610">
-    <title>BBLL: 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV &amp; Pad。</title>
-  </bookmark>
-  <bookmark href="https://github.com/guozhigq/pilipala" id="611">
-    <title>pilipala: PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</title>
   </bookmark>
   <bookmark href="https://github.com/WaitFme/CoolbbsYou" id="612">
     <title>第三方酷安</title>
   </bookmark>
-  <bookmark href="https://github.com/zfdang/Android-Touch-Helper" id="613">
-    <title>开屏跳过-安卓系统的开屏广告自动跳过助手</title>
+  <bookmark href="https://github.com/Predidit/Kazumi" id="744">
+    <title>GitHub - Predidit/Kazumi: 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。</title>
   </bookmark>
-  <bookmark href="https://haikuo.lanzouf.com/u/GoldRiver" id="617">
-    <title>海阔视界/嗅觉浏览器/波澜系列 - 奏云</title>
+  <bookmark href="https://listen1.github.io/listen1/" id="500">
+    <title>Listen 1 音乐播放器</title>
+  </bookmark>
+  <bookmark href="https://github.com/KRTirtho/spotube" id="564">
+    <title>GitHub - spotube: 🎧 Open source Spotify client that doesn&apos;t require Premium nor uses Electron! Available for both desktop &amp; mobile!</title>
   </bookmark>
   <bookmark href="https://github.com/dependon/fantascene-dynamic-wallpaper" id="618">
     <title>GitHub - dependon/fantascene-dynamic-wallpaper: Managed animated wallpaper based on X11 under Linux(Dynamic Wallpapers for Linux)</title>
+  </bookmark>
+  <bookmark href="https://github.com/Richasy/Bili.Copilot" id="738">
+    <title>GitHub - Richasy/Bili.Copilot: B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用</title>
+  </bookmark>
+  <bookmark href="https://download.bleachbit.org/beta/4.9.1/" id="739">
+    <title>Bleachbit</title>
+  </bookmark>
+  <bookmark href="https://github.com/Kenji-NX/Kenji-NX" id="741">
+    <title>GitHub - Kenji-NX/Kenji-NX: Nintendo Switch emulator written in C#.</title>
+  </bookmark>
+  <bookmark href="https://ryujinx.app/" id="742">
+    <title>Ryujinx - Nintendo Switch Emulator</title>
+  </bookmark>
+  <bookmark href="https://github.com/mabDc/eso" id="565">
+    <title>eso: 亦搜，亦看，亦闻 manga&amp;novel reader, audio&amp;video player in one app developed by flutter</title>
+  </bookmark>
+  <bookmark href="https://openfde.com/zh-CN" id="745">
+    <title>OpenFDE - 可以使用任意安卓应用、玩安卓游戏的 Linux 桌面</title>
+  </bookmark>
+  <bookmark href="https://github.com/GuihongWang/MusicYou" id="566">
+    <title>MusicYou: Unofficial NetEase Cloud Music player</title>
   </bookmark>
   <bookmark href="https://tachiyomi.org/forks/TachiyomiSY/" id="633">
     <title>TachiyomiSY</title>
@@ -977,29 +1004,11 @@
   <bookmark href="https://github.com/abbodi1406/vcredist" id="737">
     <title>GitHub - abbodi1406/vcredist: AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes</title>
   </bookmark>
-  <bookmark href="https://github.com/Richasy/Bili.Copilot" id="738">
-    <title>GitHub - Richasy/Bili.Copilot: B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用</title>
-  </bookmark>
-  <bookmark href="https://download.bleachbit.org/beta/4.9.1/" id="739">
-    <title>Bleachbit</title>
-  </bookmark>
   <bookmark href="http://mikahintz.de/fileDownload.php" id="740">
     <title>mikahintz.de/fileDownload.php</title>
   </bookmark>
-  <bookmark href="https://github.com/Kenji-NX/Kenji-NX" id="741">
-    <title>GitHub - Kenji-NX/Kenji-NX: Nintendo Switch emulator written in C#.</title>
-  </bookmark>
-  <bookmark href="https://ryujinx.app/" id="742">
-    <title>Ryujinx - Nintendo Switch Emulator</title>
-  </bookmark>
   <bookmark href="https://github.com/ramensoftware/windhawk" id="743">
     <title>GitHub - ramensoftware/windhawk: The customization marketplace for Windows programs: https://windhawk.net/</title>
-  </bookmark>
-  <bookmark href="https://github.com/Predidit/Kazumi" id="744">
-    <title>GitHub - Predidit/Kazumi: 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。</title>
-  </bookmark>
-  <bookmark href="https://openfde.com/zh-CN" id="745">
-    <title>OpenFDE - 可以使用任意安卓应用、玩安卓游戏的 Linux 桌面</title>
   </bookmark>
   <bookmark href="https://www.alura.com.br/especial/internet-explorer-edge-browsers-on-linux" id="746">
     <title>Internet Explorer, Edge and other Browsers on Linux and Mac | Alura Cursos Online</title>
@@ -1010,6 +1019,51 @@
   <bookmark href="https://github.com/caorushizi/mediago" id="748">
     <title>GitHub - caorushizi/mediago: m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac</title>
   </bookmark>
+  <folder id="752">
+    <title>PC</title>
+    <bookmark href="https://edenemulator.com/" id="758">
+      <title>Eden Emulator - Nintendo Switch Emulator</title>
+    </bookmark>
+    <bookmark href="https://git.citron-emu.org/citron/emu/-/releases" id="759">
+      <title>Releases · The Citron Project / Emulator · GitLab</title>
+    </bookmark>
+    <bookmark href="https://github.com/ntdevlabs/tiny11builder" id="760">
+      <title>ntdevlabs/tiny11builder: Scripts to build a trimmed-down Windows 11 image.</title>
+    </bookmark>
+    <bookmark href="https://github.com/libretro/RetroArch" id="761">
+      <title>libretro/RetroArch: Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</title>
+    </bookmark>
+    <bookmark href="https://github.com/suyu-emu" id="762">
+      <title>Suyu Emulator · GitHub</title>
+    </bookmark>
+    <bookmark href="https://prodkeys.net/" id="763">
+      <title>Switch Prod.Keys | Prod Keys For Ryujinx &amp; Yuzu</title>
+    </bookmark>
+    <bookmark href="https://github.com/rustdesk/rustdesk" id="764">
+      <title>GitHub - rustdesk/rustdesk: An open-source remote desktop, and alternative to TeamViewer.</title>
+    </bookmark>
+    <bookmark href="https://openfde.com/zh-CN" id="765">
+      <title>OpenFDE - 可以使用任意安卓应用、玩安卓游戏的 Linux 桌面</title>
+    </bookmark>
+    <bookmark href="https://github.com/Richasy/Bili.Copilot" id="766">
+      <title>GitHub - Richasy/Bili.Copilot: B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用</title>
+    </bookmark>
+    <bookmark href="https://download.bleachbit.org/beta/4.9.1/" id="767">
+      <title>Bleachbit</title>
+    </bookmark>
+    <bookmark href="https://ryujinx.app/" id="768">
+      <title>Ryujinx - Nintendo Switch Emulator</title>
+    </bookmark>
+    <bookmark href="https://github.com/dolphin-emu/dolphin" id="769">
+      <title>GitHub - dolphin-emu/dolphin: Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.</title>
+    </bookmark>
+    <bookmark href="https://github.com/leiurayer/downkyi" id="770">
+      <title>GitHub - leiurayer/downkyi: 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。</title>
+    </bookmark>
+    <bookmark href="https://github.com/dependon/fantascene-dynamic-wallpaper" id="771">
+      <title>GitHub - dependon/fantascene-dynamic-wallpaper: Managed animated wallpaper based on X11 under Linux(Dynamic Wallpapers for Linux)</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="377">
   <title>知识库</title>
@@ -1113,4 +1167,19 @@
     <title>麒麟桌面系统【ISO定制】 – XC知识库</title>
   </bookmark>
 </folder>
+<bookmark href="https://www.tiangong.cn/" id="753">
+  <title>天工AI</title>
+</bookmark>
+<bookmark href="https://cg.163.com/#/mobile" id="754">
+  <title>网易云游戏_网易官方云游戏平台_海量游戏即点即玩_cg.163.com</title>
+</bookmark>
+<bookmark href="https://chat.deepseek.com/" id="755">
+  <title>DeepSeek - 探索未至之境</title>
+</bookmark>
+<bookmark href="https://mirror.ghproxy.com/" id="756">
+  <title>GitHub Proxy 代理加速</title>
+</bookmark>
+<bookmark href="https://soali.net/" id="757">
+  <title>SoAli.net</title>
+</bookmark>
 </xbel>
