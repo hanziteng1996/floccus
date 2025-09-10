@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :771: for Floccus bookmark sync browser extension -->
+<!--- highestId :772: for Floccus bookmark sync browser extension -->
 
 <folder id="373">
   <title>工作</title>
@@ -356,6 +356,9 @@
 </folder>
 <folder id="375">
   <title>在线工具箱</title>
+  <bookmark href="https://yjdz.bdwpweb.shop/" id="772">
+    <title>百度网盘不限速地址</title>
+  </bookmark>
   <bookmark href="https://easychuan.cn/" id="404">
     <title>轻松传 - 传文件，传文本，传屏幕，传实时视频</title>
   </bookmark>
@@ -434,15 +437,9 @@
 </folder>
 <folder id="376">
   <title>优秀软件</title>
-  <bookmark href="https://git.citron-emu.org/citron/emu/-/releases" id="414">
-    <title>Releases · The Citron Project / Emulator · GitLab</title>
+  <bookmark href="https://github.com/WaitFme/CoolbbsYou" id="612">
+    <title>第三方酷安</title>
   </bookmark>
-  <folder id="419">
-    <title>归档</title>
-    <bookmark href="https://github.com/bggRGjQaUbCoE/c001apk" id="467">
-      <title>GitHub - bggRGjQaUbCoE/c001apk: fake coolapk</title>
-    </bookmark>
-  </folder>
   <bookmark href="https://github.com/ntdevlabs/tiny11builder" id="420">
     <title>ntdevlabs/tiny11builder: Scripts to build a trimmed-down Windows 11 image.</title>
   </bookmark>
@@ -463,6 +460,42 @@
   </bookmark>
   <bookmark href="https://github.com/dolphin-emu/dolphin" id="502">
     <title>GitHub - dolphin-emu/dolphin: Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.</title>
+  </bookmark>
+  <bookmark href="https://github.com/Richasy/Bili.Copilot" id="738">
+    <title>GitHub - Richasy/Bili.Copilot: B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用</title>
+  </bookmark>
+  <bookmark href="https://download.bleachbit.org/beta/4.9.1/" id="739">
+    <title>Bleachbit</title>
+  </bookmark>
+  <bookmark href="https://github.com/Kenji-NX/Kenji-NX" id="741">
+    <title>GitHub - Kenji-NX/Kenji-NX: Nintendo Switch emulator written in C#.</title>
+  </bookmark>
+  <bookmark href="https://ryujinx.app/" id="742">
+    <title>Ryujinx - Nintendo Switch Emulator</title>
+  </bookmark>
+  <bookmark href="https://github.com/mabDc/eso" id="565">
+    <title>eso: 亦搜，亦看，亦闻 manga&amp;novel reader, audio&amp;video player in one app developed by flutter</title>
+  </bookmark>
+  <bookmark href="https://github.com/Predidit/Kazumi" id="744">
+    <title>GitHub - Predidit/Kazumi: 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。</title>
+  </bookmark>
+  <bookmark href="https://listen1.github.io/listen1/" id="500">
+    <title>Listen 1 音乐播放器</title>
+  </bookmark>
+  <bookmark href="https://github.com/KRTirtho/spotube" id="564">
+    <title>GitHub - spotube: 🎧 Open source Spotify client that doesn&apos;t require Premium nor uses Electron! Available for both desktop &amp; mobile!</title>
+  </bookmark>
+  <bookmark href="https://github.com/dependon/fantascene-dynamic-wallpaper" id="618">
+    <title>GitHub - dependon/fantascene-dynamic-wallpaper: Managed animated wallpaper based on X11 under Linux(Dynamic Wallpapers for Linux)</title>
+  </bookmark>
+  <bookmark href="https://openfde.com/zh-CN" id="745">
+    <title>OpenFDE - 可以使用任意安卓应用、玩安卓游戏的 Linux 桌面</title>
+  </bookmark>
+  <bookmark href="https://github.com/GuihongWang/MusicYou" id="566">
+    <title>MusicYou: Unofficial NetEase Cloud Music player</title>
+  </bookmark>
+  <bookmark href="https://tachiyomi.org/forks/TachiyomiSY/" id="633">
+    <title>TachiyomiSY</title>
   </bookmark>
   <bookmark href="https://github.com/termux/termux-app/" id="567">
     <title>termux-app: Termux - a terminal emulator application for Android OS extendible by variety of packages.</title>
@@ -710,45 +743,15 @@
   <bookmark href="https://www.holesfly.xyz/" id="499">
     <title>HoleFly-追剧APP</title>
   </bookmark>
-  <bookmark href="https://github.com/WaitFme/CoolbbsYou" id="612">
-    <title>第三方酷安</title>
+  <bookmark href="https://git.citron-emu.org/citron/emu/-/releases" id="414">
+    <title>Releases · The Citron Project / Emulator · GitLab</title>
   </bookmark>
-  <bookmark href="https://github.com/Predidit/Kazumi" id="744">
-    <title>GitHub - Predidit/Kazumi: 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。</title>
-  </bookmark>
-  <bookmark href="https://listen1.github.io/listen1/" id="500">
-    <title>Listen 1 音乐播放器</title>
-  </bookmark>
-  <bookmark href="https://github.com/KRTirtho/spotube" id="564">
-    <title>GitHub - spotube: 🎧 Open source Spotify client that doesn&apos;t require Premium nor uses Electron! Available for both desktop &amp; mobile!</title>
-  </bookmark>
-  <bookmark href="https://github.com/dependon/fantascene-dynamic-wallpaper" id="618">
-    <title>GitHub - dependon/fantascene-dynamic-wallpaper: Managed animated wallpaper based on X11 under Linux(Dynamic Wallpapers for Linux)</title>
-  </bookmark>
-  <bookmark href="https://github.com/Richasy/Bili.Copilot" id="738">
-    <title>GitHub - Richasy/Bili.Copilot: B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用</title>
-  </bookmark>
-  <bookmark href="https://download.bleachbit.org/beta/4.9.1/" id="739">
-    <title>Bleachbit</title>
-  </bookmark>
-  <bookmark href="https://github.com/Kenji-NX/Kenji-NX" id="741">
-    <title>GitHub - Kenji-NX/Kenji-NX: Nintendo Switch emulator written in C#.</title>
-  </bookmark>
-  <bookmark href="https://ryujinx.app/" id="742">
-    <title>Ryujinx - Nintendo Switch Emulator</title>
-  </bookmark>
-  <bookmark href="https://github.com/mabDc/eso" id="565">
-    <title>eso: 亦搜，亦看，亦闻 manga&amp;novel reader, audio&amp;video player in one app developed by flutter</title>
-  </bookmark>
-  <bookmark href="https://openfde.com/zh-CN" id="745">
-    <title>OpenFDE - 可以使用任意安卓应用、玩安卓游戏的 Linux 桌面</title>
-  </bookmark>
-  <bookmark href="https://github.com/GuihongWang/MusicYou" id="566">
-    <title>MusicYou: Unofficial NetEase Cloud Music player</title>
-  </bookmark>
-  <bookmark href="https://tachiyomi.org/forks/TachiyomiSY/" id="633">
-    <title>TachiyomiSY</title>
-  </bookmark>
+  <folder id="419">
+    <title>归档</title>
+    <bookmark href="https://github.com/bggRGjQaUbCoE/c001apk" id="467">
+      <title>GitHub - bggRGjQaUbCoE/c001apk: fake coolapk</title>
+    </bookmark>
+  </folder>
   <bookmark href="https://miru.js.org/" id="634">
     <title>Miru</title>
   </bookmark>
